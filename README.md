@@ -4,17 +4,14 @@
 ## This repostiry is where I do school work. Pls ignore if you not from my school.
 ## In order to make this, I redownloaded Github Desktop, Logged into my account, Cloned the repository I made by clicking the plus button, and copied it to my documents folder where I keep my Git stuff. 
 
-<!--
-**cat-tle/cat-tle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+## My Interests  
+* Drawing
+* Horror Movies
+* Waffle House with my friends
+* Games that waste my time
+## Websites I Like  
+* [Gif Internet Archive](https://gifcities.org/)  
+ * Archive of gifs made and posted to the internet! Nostalgic and kinda addicting. 
+* [A normal football article](http://www.sbnation.com/a/17776-football)
+ * 17776 Football is a sci-fi story about what football will look like in the far future, from the perspective of sentient satellites. 
