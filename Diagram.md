@@ -1,3 +1,8 @@
+
+```mermaid
+---
+Earth Example
+---
 classDiagram
     class Earth{
         +isHabitable()
@@ -35,6 +40,7 @@ classDiagram
     SpaceShips <|-- alienShips
     Space <|-- Earth
     Space <|-- SpaceShips
+    ```
 
 ##### Every entity is contained in space, Space ships and Earth. 
 ##### Alien and Human ships are both types of space ships and those they are both classed under SpaceShips.
