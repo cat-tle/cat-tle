@@ -1,8 +1,4 @@
-## Hi!!! My name is Nani (irl name) 
-## My email is zombieswirlz@gmail.com
-## This my github account I use for Very Important Work. 
-## This repostiry is where I do school work. Pls ignore if you not from my school.
-## In order to make this, I redownloaded Github Desktop, Logged into my account, Cloned the repository I made by clicking the plus button, and copied it to my documents folder where I keep my Git stuff. 
+
 
 # About Me
 ## My Interests  
